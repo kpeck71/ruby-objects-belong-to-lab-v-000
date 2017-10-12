@@ -8,4 +8,4 @@ class Song
 
 end
 
-song = Arist.new
+song = Arist.new(title,artist)
