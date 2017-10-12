@@ -7,3 +7,5 @@ class Song
   end
 
 end
+
+song = Arist.new
